@@ -1,7 +1,7 @@
 # Instalink Addon
 
 View public instagram posts without an account.
----
+
 ## How to Use
 1. Open Firefox
 2. Type `about:debugging` in address bar
