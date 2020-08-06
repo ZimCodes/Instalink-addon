@@ -2,10 +2,17 @@
   "manifest_version": 2,
   "name": "Instalink",
   "version": "1.0",
+  "developer":{
+	"name":"ZimCodes",
+	"url":"https://github.com/ZimCodes/Instalink-addon"
+  },
+  
   "description":"View public posts on Instagram without having to Sign-Up/Sign-In. This addon also disables the sign-in/sign-up modal element.",
+  
   "icons": {
     "48": "icons/insta-48.png"
   },
+  
   "content_scripts":[
     {
       "matches": ["*://www.instagram.com/*"],
